@@ -495,10 +495,11 @@ ul.dropdown-menu {
 }
 .w3-welcome-grids,.agileits-services,.wthree-news-grids,.w3-agileits-newsletter,.agileinfo-top-grids{
     margin: 4em 0 0 0;
+    display: flex;
 }
 .w3-welcome-left h5{
     color: #000000;
-    font-size: 1em;
+    font-size: 2em;
     text-transform: uppercase;
     font-weight: 600;
     letter-spacing: 4px;
