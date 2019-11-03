@@ -497,6 +497,13 @@ ul.dropdown-menu {
     margin: 4em 0 0 0;
     display: flex;
 }
+.hiddenn{
+    opacity: 0.1;
+    transition: 0.5s;
+}
+.fadein{
+    opacity: 1; 
+}
 .w3-welcome-left h5{
     color: #000000;
     font-size: 2em;
